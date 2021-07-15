@@ -1,0 +1,191 @@
+[
+  {
+    "exercicio": "exercicio 1",
+    "serie": "serie 1",
+    "repeticao": "repeticao 1",
+    "id": "1",
+    "alunoId": "1"
+  },
+  {
+    "exercicio": "exercicio 2",
+    "serie": "serie 2",
+    "repeticao": "repeticao 2",
+    "id": "2",
+    "alunoId": "2"
+  },
+  {
+    "exercicio": "exercicio 3",
+    "serie": "serie 3",
+    "repeticao": "repeticao 3",
+    "id": "3",
+    "alunoId": "3"
+  },
+  {
+    "exercicio": "exercicio 4",
+    "serie": "serie 4",
+    "repeticao": "repeticao 4",
+    "id": "4",
+    "alunoId": "4"
+  },
+  {
+    "exercicio": "exercicio 5",
+    "serie": "serie 5",
+    "repeticao": "repeticao 5",
+    "id": "5",
+    "alunoId": "5"
+  },
+  {
+    "exercicio": "exercicio 6",
+    "serie": "serie 6",
+    "repeticao": "repeticao 6",
+    "id": "6",
+    "alunoId": "6"
+  },
+  {
+    "exercicio": "exercicio 7",
+    "serie": "serie 7",
+    "repeticao": "repeticao 7",
+    "id": "7",
+    "alunoId": "7"
+  },
+  {
+    "exercicio": "exercicio 8",
+    "serie": "serie 8",
+    "repeticao": "repeticao 8",
+    "id": "8",
+    "alunoId": "8"
+  },
+  {
+    "exercicio": "exercicio 9",
+    "serie": "serie 9",
+    "repeticao": "repeticao 9",
+    "id": "9",
+    "alunoId": "1"
+  },
+  {
+    "exercicio": "exercicio 10",
+    "serie": "serie 10",
+    "repeticao": "repeticao 10",
+    "id": "10",
+    "alunoId": "2"
+  },
+  {
+    "exercicio": "exercicio 11",
+    "serie": "serie 11",
+    "repeticao": "repeticao 11",
+    "id": "11",
+    "alunoId": "3"
+  },
+  {
+    "exercicio": "exercicio 12",
+    "serie": "serie 12",
+    "repeticao": "repeticao 12",
+    "id": "12",
+    "alunoId": "4"
+  },
+  {
+    "exercicio": "exercicio 13",
+    "serie": "serie 13",
+    "repeticao": "repeticao 13",
+    "id": "13",
+    "alunoId": "5"
+  },
+  {
+    "exercicio": "exercicio 14",
+    "serie": "serie 14",
+    "repeticao": "repeticao 14",
+    "id": "14",
+    "alunoId": "6"
+  },
+  {
+    "exercicio": "exercicio 15",
+    "serie": "serie 15",
+    "repeticao": "repeticao 15",
+    "id": "15",
+    "alunoId": "7"
+  },
+  {
+    "exercicio": "exercicio 16",
+    "serie": "serie 16",
+    "repeticao": "repeticao 16",
+    "id": "16",
+    "alunoId": "8"
+  },
+  {
+    "exercicio": "exercicio 17",
+    "serie": "serie 17",
+    "repeticao": "repeticao 17",
+    "id": "17",
+    "alunoId": "9"
+  },
+  {
+    "exercicio": "exercicio 18",
+    "serie": "serie 18",
+    "repeticao": "repeticao 18",
+    "id": "18",
+    "alunoId": "1"
+  },
+  {
+    "exercicio": "exercicio 19",
+    "serie": "serie 19",
+    "repeticao": "repeticao 19",
+    "id": "19",
+    "alunoId": "2"
+  },
+  {
+    "exercicio": "exercicio 20",
+    "serie": "serie 20",
+    "repeticao": "repeticao 20",
+    "id": "20",
+    "alunoId": "3"
+  },
+  {
+    "exercicio": "exercicio 21",
+    "serie": "serie 21",
+    "repeticao": "repeticao 21",
+    "id": "21",
+    "alunoId": "4"
+  },
+  {
+    "exercicio": "exercicio 22",
+    "serie": "serie 22",
+    "repeticao": "repeticao 22",
+    "id": "22",
+    "alunoId": "5"
+  },
+  {
+    "exercicio": "exercicio 23",
+    "serie": "serie 23",
+    "repeticao": "repeticao 23",
+    "id": "23",
+    "alunoId": "6"
+  },
+  {
+    "exercicio": "exercicio 24",
+    "serie": "serie 24",
+    "repeticao": "repeticao 24",
+    "id": "24",
+    "alunoId": "7"
+  },
+  {
+    "exercicio": "exercicio 25",
+    "serie": "serie 25",
+    "repeticao": "repeticao 25",
+    "id": "25",
+    "alunoId": "8"
+  },
+  {
+    "exercicio": "exercicio 26",
+    "serie": "serie 26",
+    "repeticao": "repeticao 26",
+    "id": "26",
+    "alunoId": "9"
+  },
+  {
+    "exercicio": "exercicio 27",
+    "serie": "serie 27",
+    "repeticao": "repeticao 27",
+    "id": "27",
+    "alunoId": "1"
+  }
+]
